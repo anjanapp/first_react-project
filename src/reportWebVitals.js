@@ -11,3 +11,6 @@ const reportWebVitals = onPerfEntry => {
 };
 
 export default reportWebVitals;
+
+
+// to implement advanced concepts such as Pwa (progressive web app) it is web app but also can be used as light weight mobile apps
