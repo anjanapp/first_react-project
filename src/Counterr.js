@@ -11,8 +11,6 @@ function Counterr() {
         setCounter(counter-1)
     }
     function reset(){
-        // counter=0
-        // setCounter(counter)
         setCounter(1)
     }
 
